@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FireChats</string>
+    <string name="label_sign_up">Sign Up</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="label_sign_in">Sign In</string>
+    <string name="btn_login">Login</string>
+    <string name="enter_name">Enter your Name</string>
+    <string name="enter_email">Enter your Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_confirm_password">Confirm Your Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>

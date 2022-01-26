@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350754567345",
+    "project_id": "fire-chats0",
+    "storage_bucket": "fire-chats0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350754567345:android:c265a9445b74c1cb9b9e90",
+        "android_client_info": {
+          "package_name": "com.drakeapk.firechats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350754567345-qjmupg0d9s0ude80fdsunqke8kervvjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOZc21EiQKWLvHa7oVHhcNQqBK1hl-Ec8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350754567345-qjmupg0d9s0ude80fdsunqke8kervvjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
